@@ -1,9 +1,3 @@
-# Packet-tracer-healthcare-network
-
-
-
-
-
 Technologies Implemented
     1. Design Tool: Utilize Cisco Packet Tracer for designing and implementing the network solution.
     2. Hierarchical Design: Implement a hierarchical model that incorporates redundancy for enhanced network resilience.
