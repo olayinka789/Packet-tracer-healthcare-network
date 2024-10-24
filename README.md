@@ -1,5 +1,5 @@
  Technologies Implemented
-    1. Design Tool: Utilize Cisco Packet Tracer for designing and implementing the network solution.
+   1. Design Tool: Utilize Cisco Packet Tracer for designing and implementing the network solution.
     2. Hierarchical Design: Implement a hierarchical model that incorporates redundancy for enhanced network resilience.
     3. ISPs: Establish connectivity to an Airtel ISP Router within the network infrastructure.
     4. WLC: Ensure that each department is equipped with a Wireless Access Point (WAP) to provide WiFi access to employees, corporate users, external auditors, and guests, all centrally managed by a Wireless LAN Controller (WLC).
