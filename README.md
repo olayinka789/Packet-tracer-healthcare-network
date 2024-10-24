@@ -1,4 +1,4 @@
-Technologies Implemented
+ Technologies Implemented
     1. Design Tool: Utilize Cisco Packet Tracer for designing and implementing the network solution.
     2. Hierarchical Design: Implement a hierarchical model that incorporates redundancy for enhanced network resilience.
     3. ISPs: Establish connectivity to an Airtel ISP Router within the network infrastructure.
